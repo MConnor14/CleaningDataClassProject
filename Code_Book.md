@@ -1,12 +1,12 @@
 DATA DICTIONARY – Clean_Tidy.txt
 ================================
 Activity – Character
-: WALKING
-: WALKING_UPSTAIRS
-: WALKING_DOWNSTAIRS
-: SITTING
-: STANDING
-: LAYING
+* WALKING
+* WALKING_UPSTAIRS
+* WALKING_DOWNSTAIRS
+* SITTING
+* STANDING
+* LAYING
 
 SubjectNo – Integer 1..30
 Mean Body Acceleration - X (time domain) – Floating point decimal 18.16
