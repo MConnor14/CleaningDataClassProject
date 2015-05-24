@@ -23,12 +23,12 @@ The data was divided between training and test.  The first step was to combine a
 Then a new dataset was created by selecting only the columns related to mean and standard deviation calculations.  This had been represented with mean() and std().
 
 In order for the dataset to be more readable, the activity codes were decoded into words: 
-: 1 = WALKING 
-: 2 = WALKING_UPSTAIRS 
-: 3=WALKING_DOWNSTAIRS  
-: 4= SITTING 
-: 5= STANDING
-: 6=LAYING
+* 1 = WALKING 
+* 2 = WALKING_UPSTAIRS 
+* 3=WALKING_DOWNSTAIRS  
+* 4= SITTING 
+* 5= STANDING
+* 6=LAYING
 
 The column headers were also updated to better clarify the data in each column.  These headers are listed here:
 
